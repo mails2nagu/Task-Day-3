@@ -1,0 +1,55 @@
+let Resume= {
+  "Personal": {
+    "name": "Nagarajan T",
+    "email": "mails2nagu@gmail.com",
+    "phone": "+91 8754273211",
+    "location": {
+    "address": "#53, N- Block, Kovaipudur",
+      "city": "Coimbatore",
+      "country": "India",
+      "State": "Tamilnadu",
+      "postalCode": "641042"
+    }
+  },  
+  
+"Education": 
+    {
+      "institution": "VLB Janakiammal College of Engineering and Technology  ",
+      "area": "Coimbatore, Tamilnadu, India",
+      "Affiliation": "Anna University, Chennai, India",
+      "Course": "BE Computer Science",
+      "Year": 2001
+    },
+    
+    "Experience":{ 
+      
+    "Profile-1":  {
+      "Organization": "Omega Power Controls, Coimbatore",
+      "P-1 Designation": "Poduction Manager",
+      "Year": "2001-2003"},
+      
+      "Profile-2": {
+        "Organization": "Omega Power Controls, Chennai",
+      "P-2 Designation": "Branch Manager, Chennai",
+      "Year": "2003-2007"},
+      
+      "Profile-3":{
+        "Organization": "Mcgan's Ooty School of Architecture, Ooty",
+      "P-3 Designation": "Administrative Officer",
+      "Year": "2007-2017"},
+      
+      "Profile-4":{ 
+        "Organization": "SMR COnstructions",
+        "Designation": "Project Manager",
+        "Year": "2017-2020"},
+        
+        "Profile-5":{
+          "Organization":"IAEME Publication",
+          "Designation": "Manager",
+          "Year": "2020-Till now"
+      }
+}   
+}
+    
+ 
+ 
